@@ -1,0 +1,4 @@
+[dependencies]
+ndarray = "0.15"
+special = "0.2"
+num-complex = "0.4"
